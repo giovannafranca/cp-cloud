@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\Users\giofr\Desktop\cp1devops\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+86453259.index
